@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MalaOlaCicha
 - 👀 I’m interested in software engieering and robotics
 - 🌱 I’m currently learning C# and C++
-- 💞️ Currently I'm working on a simple mobile application :3
+- 💞️ Currently I'm working on a simple web application :3
 - 📫 How to reach me: aleksandra.marianna.cichon@gmail.com
