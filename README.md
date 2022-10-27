@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript and C++**
 
-- 💬 Ask me about ** Basics of C# and Xamarin**
+- 💬 Ask me about **Basics of C# and Xamarin**
 
 - 📫 How to reach me **aleksandra.marianna.cichon@gmail.com**
 
