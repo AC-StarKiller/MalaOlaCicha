@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MalaOlaCicha</h1>
 <h3 align="center">A beginner software developer from Poland</h3>
 
-- 🔭 I’m currently working on **eCommerce WebApp**
+- 🔭 I’m currently working on **Arduino Self-Driving Robot**
 
 - 🌱 I’m currently learning **JavaScript and C++**
 
