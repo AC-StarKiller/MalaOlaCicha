@@ -1,5 +1,5 @@
 <h1 align="center">Hi, Silent here </h1>
-<h3 align="center">An Computer Science Student from Poland</h3>
+<h3 align="center">A Computer Science Student from Poland</h3>
 
 - 🔭 I’m currently working on **ESP32 Self-Balancing Robot**
 
