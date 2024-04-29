@@ -1,5 +1,5 @@
-<h1 align="center">Silent</h1>
-<h3 align="center">Computer Science Student</h3>
+<h1 align="center">I'm Silent</h1>
+<h3 align="center">A Computer Science Student</h3>
 
 - 🔭 Working on **Self-Balancing Robot**
 
