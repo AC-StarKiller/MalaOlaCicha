@@ -9,8 +9,7 @@
 
 <h3 align="left">Socials:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/24775676" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24775676" height="30" width="40" /></a>
-<a href="https://instagram.com/____arcade____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__itworks__" height="30" width="40" /></a>
+<a href="https://www.instagram.com/itsarc4de/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__itworks__" height="30" width="40" /></a>
 <a href="https://discord.gg/silenttheofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="silenttheofficial" height="30" width="40" /></a>
 </p>
 
